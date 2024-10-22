@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-project-tushar/static/css/main.d87371a6.css",
+    "main.js": "/react-project-tushar/static/js/main.e440a6c0.js",
+    "static/js/453.e694ad39.chunk.js": "/react-project-tushar/static/js/453.e694ad39.chunk.js",
+    "index.html": "/react-project-tushar/index.html",
+    "main.d87371a6.css.map": "/react-project-tushar/static/css/main.d87371a6.css.map",
+    "main.e440a6c0.js.map": "/react-project-tushar/static/js/main.e440a6c0.js.map",
+    "453.e694ad39.chunk.js.map": "/react-project-tushar/static/js/453.e694ad39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d87371a6.css",
+    "static/js/main.e440a6c0.js"
+  ]
+}
